@@ -60,11 +60,7 @@ class SplashScreen extends StatelessWidget {
                       },
                       width: 200,
                       height: 52,
-<<<<<<< HEAD
-                      text: 'Get Started',
-=======
                       text: 'Get Started_mautestmoi',
->>>>>>> Api/food_app
                       icon: Icons.arrow_forward,
                     ),
                   ),
