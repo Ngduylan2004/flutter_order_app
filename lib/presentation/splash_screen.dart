@@ -60,7 +60,7 @@ class SplashScreen extends StatelessWidget {
                       },
                       width: 200,
                       height: 52,
-                      text: 'Get Started',
+                      text: 'Get Startedaaaaaaaa->api',
                       icon: Icons.arrow_forward,
                     ),
                   ),
