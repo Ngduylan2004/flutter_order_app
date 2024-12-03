@@ -9,7 +9,7 @@ class Sdfd extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Sdfd'),
       ),
-      body: const Center(child: Text('Sdfd')),
+      body: const Center(child: Text('food_app')),
     );
   }
 }
